@@ -6,12 +6,6 @@ experiences:
   subtitle: "DLI Lab (advised by Prof. Jinyoung Yeo)"
   category: "work"
 
-- place: "GIST"
-  time: "2020 - now"
-  title: "B.S Student"
-  subtitle: "Dept. of EECS"
-  category: "school"
-
 - place: "UC Berkeley"
   time: "Spring 2023"
   title: "Visiting Student"
@@ -30,14 +24,21 @@ experiences:
   subtitle: "Open Domain Question Answering"
   category: "work"
 
+- place: "UC Berkeley"
+  time: "Jun 2021 - Aug 2021"
+  title: "Visiting Student"
+  subtitle: "Summer Session"
+  category: "school"
+
 - place: "Google Development Student Clubs"
   time: "Jul 2021 - Jun 2022"
   title: "Lead"
   subtitle: "Project Organizing, Event Management"
   category: "work"
 
-- place: "UC Berkeley"
-  time: "Jun 2021 - Aug 2021"
-  title: "Visiting Student"
-  subtitle: "Summer Session"
+
+- place: "GIST"
+  time: "2020 - now"
+  title: "B.S Student"
+  subtitle: "Dept. of EECS"
   category: "school"
