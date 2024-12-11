@@ -6,6 +6,12 @@ experiences:
   subtitle: "EdLab (advised by Prof. Edward Choi)"
   category: "school"
 
+- place: "Seoul National University"
+  time: "Sep 2023 - Dec 2023"
+  title: "Visiting Student"
+  subtitle: "Fall Semester"
+  category: "school"
+
 - place: "KAIST"
   time: "Dec 2023 - Feb 2024"
   title: "Undergrad Research Intern"
@@ -35,13 +41,6 @@ experiences:
   title: "Visiting Student"
   subtitle: "Summer Session"
   category: "school"
-
-- place: "GDSC @ GIST"
-  time: "Jul 2021 - Jun 2022"
-  title: "Lead"
-  subtitle: "Google Developer Student Clubs, project/event organizer"
-  category: "work"
-
 
 - place: "GIST"
   time: "2020 - now"
