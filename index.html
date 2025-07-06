@@ -6,11 +6,11 @@ title: Home
 <div class="docs-section" id="bio">
   <h4>Bio</h4>
   <p>
-    Incoming Master's student @ <a href="https://gsai.kaist.ac.kr/" target="_blank">KAIST AI</a>, advised by <a href="https://mp2893.com/" target="_blank">Prof. Edward Choi</a>. I'm interested in <b>machine learning, natural language processing, and their applications to healthcare</b>.
+    Incoming Master's student @ <a href="https://gsai.kaist.ac.kr/" target="_blank">KAIST AI</a>, advised by <a href="https://mp2893.com/" target="_blank">Prof. Edward Choi</a>. I'm interested in <b>natural language processing</b>, especially <b>evaluation frameworks</b>, <b>LLM-based agentic simulation</b> and their <b>applications to healthcare</b>.
     Prior to coming to KAIST, I received my Bachelor's degree in Electrical Engineering and Computer Science from Gwangju Institute of Science and Technology (GIST).
   </p> 
   <p>
-    Bookworm, film lover, and passionate amateur swimmer.
+    Mostly running and sometimes swimming.
   </p>
   
 </div>
@@ -121,19 +121,19 @@ title: Home
 </div>
 
 
-<!-- ========== PROJECTS ========== 
+<!-- ========== PROJECTS ========== -->
 <div class="docs-section" id="projects">
   <h4>Projects</h4>
 
   <ul class="tab-nav">
-    <li><div class="button active" data-ref="#projects-selected">Selected</div></li>
+    <li><div class="button active" data-ref="#projects-selected">Available</div></li>
     <li><div class="button" data-ref="#projects-all">All</div></li>
   </ul>
 
   <div class="tab-content">
     <div class="tab-pane active" id="projects-selected">
-      {% assign selected_projects = site.data.projects.projects | where: "selected", "y" %}
-      {% for project in selected_projects %}
+      {% assign available_projects = site.data.projects.projects | where: "available", "y" %}
+      {% for project in available_projects %}
         {% assign index_modulo = forloop.index0 | modulo:3 %}
         {% if index_modulo == 0 %}
           <div class="row">
@@ -194,7 +194,7 @@ title: Home
   </div>
 
 </div>
--->
+
 <!-- ========== Education ========== -->
 
 
