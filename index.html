@@ -190,6 +190,7 @@ title: Home
         {% if index_modulo == 2 %}
           </div>
         {% endif %}
+        {% if forloop.last and index_modulo != 2 %}</div>{% endif %}
       {% endfor %}
     </div>
   </div>
