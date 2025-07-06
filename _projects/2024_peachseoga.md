@@ -10,7 +10,9 @@ As part of a project aimed at reducing social information inequality, I worked a
 
 This work supports more equitable access to information, especially for those who struggle with traditional communication due to cognitive, educational, or social factors.
 
-![Project screenshot](../assets/projects/peachseoga/project_img.png)
+<!-- ![Project screenshot](../assets/projects/peachseoga/project_img.png) -->
+
+<img src="../assets/projects/peachseoga/project_img.png" alt="Project screenshot" width="200"/>
 
 ##### 🔧 Contributions
 
