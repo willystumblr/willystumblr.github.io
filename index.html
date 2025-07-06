@@ -126,12 +126,12 @@ title: Home
   <h4>Projects</h4>
 
   <ul class="tab-nav">
-    <li><div class="button active" data-ref="#projects-selected">Available</div></li>
+    <li><div class="button active" data-ref="#projects-available">Available</div></li>
     <li><div class="button" data-ref="#projects-all">All</div></li>
   </ul>
 
   <div class="tab-content">
-    <div class="tab-pane active" id="projects-selected">
+    <div class="tab-pane active" id="projects-available">
       {% assign available_projects = site.data.projects.projects | where: "available", "y" %}
       {% for project in available_projects %}
         {% assign index_modulo = forloop.index0 | modulo:3 %}
@@ -159,6 +159,7 @@ title: Home
         {% if index_modulo == 2 %}
           </div>
         {% endif %}
+        {% if forloop.last and index_modulo != 2 %}</div>{% endif %}
       {% endfor %}
     </div>
 
