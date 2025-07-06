@@ -1,13 +1,24 @@
 projects:
-  - title: "GIST IIT 2023"
-    subtitle: "EMS Track: Campus ESS Development"
-    thumbnail: ""
-    url: ""
-    selected: y
+  # - title: "GIST IIT 2023"
+  #   subtitle: "EMS Track: Campus ESS Development"
+  #   thumbnail: ""
+  #   url: ""
+  #   selected: y
 
-  - title: "GIST IIT 2022"
-    subtitle: "EMS Track: Campus ESS Development"
-    thumbnail: ""
-    url: ""
-    selected: y
+  # - title: "GIST IIT 2022"
+  #   subtitle: "EMS Track: Campus ESS Development"
+  #   thumbnail: ""
+  #   url: ""
+  #   selected: y
+  
+  # - title: "Detecting Network Effects"
+  #   subtitle: "Randomizing Over Randomized Experiments"
+  #   thumbnail: "assets/projects/2016_network-ab/thumbnail.JPG"
+  #   url: "projects/2016_network-ab-testing.html"
+  #   selected: y
 
+  - title: "Peach Seoga"
+    subtitle: "LLM-based Text Simplification Tool for Students with Learning Difficulties"
+    thumbnail: "assets/projects/peachseoga/thumbnail.webp"
+    url: "projects/2024_peachseoga.html"
+    available: y
