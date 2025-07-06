@@ -12,7 +12,7 @@ This work supports more equitable access to information, especially for those wh
 
 <!-- ![Project screenshot](../assets/projects/peachseoga/project_img.png) -->
 
-<img src="../assets/projects/peachseoga/project_img.png" alt="Project screenshot" width="200"/>
+<img src="../assets/projects/peachseoga/project_img.png" alt="Project screenshot" width="531"/>
 
 ##### 🔧 Contributions
 
