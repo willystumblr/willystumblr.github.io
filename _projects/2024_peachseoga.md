@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Peach Seoga
+title: Project Connectio
 subtitle: "LLM-based Text Simplification Tool for Students with Learning Difficulties"
 ---
 
