@@ -1,7 +1,14 @@
 papers:
 
+  - title: "PICon: A Multi-Turn Interrogation Framework for Evaluating Persona Agent Consistency"
+    authors: "<b>Minseo Kim</b>, Sujeong Im, Junseong Choi, Junhee Lee, Chaeeun Shim, Edward Choi"
+    venue: "arXiv preprint arXiv:2603.25620. 2026."
+    paper_pdf: "https://arxiv.org/abs/2603.25620"
+    demo: "https://kaist-edlab.github.io/picon/"
+    selected: y
+
 #  - title: "Engaging Politically Diverse Audiences on Social Media"
 #    authors: "<b>Martin Saveski</b>, Doug Beeferman, David McClure, Deb Roy"
 #    venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
 #    paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
-#    selected: y 
+#    selected: y

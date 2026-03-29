@@ -30,13 +30,6 @@ title: Home
 <!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="publications">
   <h4>Publications</h4>
-  <p>
-    Working on it!
-  </p>
-  <!--
-  <p>Most recent publications on <a href="{{ site.data.main_info.google_scholar }}" target="_blank">Google Scholar</a>.<br/>
-  <sup>‡</sup> indicates equal contribution.
-  </p>
 
   <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-selected">Selected</div></li>
@@ -53,7 +46,11 @@ title: Home
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+              <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
+            {% endif %}
+
+            {% if paper.demo %}
+              <a class="button" href="{{ paper.demo }}" target="_blank">Demo</a>
             {% endif %}
 
             {% if paper.slides %}
@@ -89,7 +86,11 @@ title: Home
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+              <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
+            {% endif %}
+
+            {% if paper.demo %}
+              <a class="button" href="{{ paper.demo }}" target="_blank">Demo</a>
             {% endif %}
 
             {% if paper.slides %}
@@ -117,7 +118,7 @@ title: Home
       {% endfor %}
     </div>
   </div>
-  -->
+
 </div>
 
 
