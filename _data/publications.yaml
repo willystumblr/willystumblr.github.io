@@ -1,7 +1,7 @@
 papers:
 
   - title: "PICon: A Multi-Turn Interrogation Framework for Evaluating Persona Agent Consistency"
-    authors: "<b>Minseo Kim</b>, Sujeong Im, Junseong Choi, Junhee Lee, Chaeeun Shim, Edward Choi"
+    authors: "<b>Minseo Kim</b>*, Sujeong Im*, Junseong Choi, Junhee Lee, Chaeeun Shim, Edward Choi"
     venue: "arXiv preprint arXiv:2603.25620. 2026."
     paper_pdf: "https://arxiv.org/abs/2603.25620"
     demo: "https://kaist-edlab.github.io/picon/"
