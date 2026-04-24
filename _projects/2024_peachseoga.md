@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Project Connectio
-subtitle: "LLM-based Text Simplification Tool for Students with Learning Difficulties"
+title: Project Connexio
+subtitle: "LLM-based Text Adjustment Tool for Students with Learning Difficulties"
 ---
 
 > Available at: [official website](https://ai.peachseoga.com/)
