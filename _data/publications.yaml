@@ -3,8 +3,14 @@ papers:
   - title: "PICon: A Multi-Turn Interrogation Framework for Evaluating Persona Agent Consistency"
     authors: "<b>Minseo Kim</b>*, Sujeong Im*, Junseong Choi, Junhee Lee, Chaeeun Shim, Edward Choi"
     venue: "arXiv preprint arXiv:2603.25620. 2026."
-    paper_pdf: "https://arxiv.org/abs/2603.25620"
+    paper_pdf: "https://arxiv.org/pdf/2603.25620"
     demo: "https://kaist-edlab.github.io/picon/"
+    selected: y
+
+  - title: "Towards Error-Free EHRs: Reasoning-Intensive Consistency Verification Between Clinical Notes and Structured Tables in Electronic Health Records"
+    authors: "Yeonsu Kwon*, Jiho Kim*, Junseong Choi, Paloma Rabaey, <b>Minseo Kim</b>, Sujeong Im, Jeewon Yang, Jun-Min Lee, Sangji Lee, Jiwon Kim, Hangyul Yoon, Hyunwook Kwon, Edward Choi"
+    venue: "arXiv preprint arXiv:2605.26463. 2026."
+    paper_pdf: "https://arxiv.org/pdf/2605.26463"
     selected: y
 
 #  - title: "Engaging Politically Diverse Audiences on Social Media"
